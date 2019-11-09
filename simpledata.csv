@@ -1,5 +1,6 @@
 material,sigma-fission-fast,sigma-absorb-fast,nubar-fast,sigma-scatter-fast,sigma-fission-thermal,sigma-absorb-thermal,nubar-thermal,sigma-scatter-thermal,p-scatterdown,atomic-mass,density,n-spont-fission,num_density
-pu-239,2,2.05,3,5,748,1017,2.5,8,0.01,239,19,8.64E-24,4.79E+28
-graphite,0,0.00001,0,2,0,0.002,0,5,0.1,12,2.26,0,1.13E+29
-boron-10,0,0.4,0,2,0,200,0,2,0.15,10,2.4,0,1.45E+29
-pb-208,0,0,0,5,0,0,0,11.5,0.01,208,11.34,0,3.28E+28
+pu-239,2,2.05,3,5,748,1017,2.5,8,0.01,239,19,8.64E-24,4.79E+028
+graphite,0,0.00001,0,2,0,0.002,0,5,0.1,12,2.26,0,1.13E+029
+boron-10,0,0.4,0,2,0,200,0,2,0.15,10,2.4,0,1.45E+029
+pb-208,0,0,0,5,0,0,0,11.5,0.01,208,11.34,0,3.28E+028
+u-235,1,1.09,2.513,4,583,99,2.415,10,0.01,235,19.1,1.17E-25,4.89E+28
